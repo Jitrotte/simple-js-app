@@ -3,5 +3,3 @@ let pokemonList = [
   { name: "bulbasaur", height: 6, type: ["grass", "poison"] },
   { name: "squirtle", height: 7, type: ["water", "ground"] },
 ];
-
-console.log("Hello World!");
