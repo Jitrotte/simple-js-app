@@ -1,0 +1,17 @@
+.button-class {
+  background-color: aliceblue;
+  padding: 50px 75px;
+  cursor: pointer;
+  font-size: 32px;
+  margin-top: 10px;
+  border-radius: 8px;
+}
+
+ul {
+  list-style: none;
+}
+
+h1 {
+  color: blue;
+  text-decoration: underline;
+}
