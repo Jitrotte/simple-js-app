@@ -1,7 +1,7 @@
 # simple-js-app
 
-This is a pokedex app that contains different pokemon. It lists their names, heights, and types.
+This is a pokedex app that contains different pokemon. The pokemon are listed in their own respective buttons.
 
-It uses a for loop to pull key values from an array along with a conditional for the tallest pokemon.
+When the button is clicked, it's name is logged to the console.
 
 //
